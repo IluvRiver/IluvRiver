@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2496ED&height=300&section=header&text=클라우드%20엔지니어-nl-이충민%20입니다.&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2496ED&height=300&section=header&text=Solution%20Architect-nl-이충민%20입니다.&fontSize=60" />
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />&nbsp
