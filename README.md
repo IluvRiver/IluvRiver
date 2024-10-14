@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=클라우드%20엔지니어-nl-이충민%20입니다.&fontSize=90" />
+<div align="center">
+  <img src="https://github.com/IluvRiver/IluvRiver/welcomelogo.png" />
+</div>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
