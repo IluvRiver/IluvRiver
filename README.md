@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2496ED&height=300&section=header&text=I'm%20Chungmin.&fontSize=60" />
-
 <h3 align="center">☁️ Cloud & Infrastructure ☁️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />&nbsp
